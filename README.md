@@ -1,6 +1,4 @@
-# hello-world
-just another repository
+# Heart Attack Analysis & Prediction
+Heart Attack Analysis & Prediction using machine learning with python
 
-Hi guys,
-my name is yassine I'm a frontend developer,i created some projects 
-in frontend develepment like a portfolios and landing pages.
+
